@@ -4,7 +4,7 @@ CHANGELOG for 7.x
 This changelog references the relevant changes (bug and security fixes) done
 in 7.x versions.
 
-### 7.0.0-BETA1 (2025-0X-XX)
+### 7.0.0 (2025-10-20)
 
 * Dropped support for PHP 7.4 and PHP 8.0.
 * Dropped support for Symfony 5.4.
